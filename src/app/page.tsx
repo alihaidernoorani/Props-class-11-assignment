@@ -1,4 +1,3 @@
-// pages/index.js
 import Card from "./component/card";
 
 export default function Home() {
